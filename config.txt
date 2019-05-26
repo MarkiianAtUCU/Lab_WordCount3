@@ -1,5 +1,4 @@
-num_threads_processing: 4
-num_threads_merging: 4
+merger_threshold: 1000
 in_file: /media/iso
 out_file_a: LX_res_alpha.txt
 out_file_n: LX_res_num.txt

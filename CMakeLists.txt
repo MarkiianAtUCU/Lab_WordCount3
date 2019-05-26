@@ -21,8 +21,8 @@ include_directories(${Qt5Concurrent_INCLUDE_DIRS})
 
 #get_target_property(QtCore_location Qt5::Core LOCATION)
 
-add_executable(Lab_WordCount2_multi_thread src/Word_count2_multi_thread.cpp dependencies/config_reader.h dependencies/FileProcessor.cpp dependencies/FileProcessor.h dependencies/time_meter.h dependencies/thread_safe_queue.h)
-target_link_libraries( Lab_WordCount2_multi_thread ${LibArchive_LIBRARIES} ${Boost_LIBRARIES} Qt5::Core Qt5::Concurrent)
+add_executable(Lab_WordCount3_multi_thread src/Word_count3_multi_thread.cpp dependencies/config_reader.h dependencies/FileProcessor.cpp dependencies/FileProcessor.h dependencies/time_meter.h dependencies/thread_safe_queue.h)
+target_link_libraries( Lab_WordCount3_multi_thread ${LibArchive_LIBRARIES} ${Boost_LIBRARIES} Qt5::Core Qt5::Concurrent)
 
 #add_executable(Lab_WordCount2_multi_thread src/Word_count2_multi_thread.cpp dependencies/time_meter.h dependencies/thread_safe_queue.cpp dependencies/thread_safe_queue.h)
 #target_link_libraries( Lab_WordCount2_multi_thread)
