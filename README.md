@@ -11,6 +11,6 @@ To test our program we used Gutenberg archieve
 | 2000                  | 1776          |
 | 3000                  | 2127          |
 
-![](https://github.com/MarkiianAtUCU/Lab_WordCount2/blob/master/res_plot.png)
+![](https://github.com/MarkiianAtUCU/Lab_WordCount3/blob/master/res_plot.png)
 
 [Link to indexed files](https://drive.google.com/open?id=1xgXwYUzztizi3WlO_SfOgrx_Av3Us5c1)
