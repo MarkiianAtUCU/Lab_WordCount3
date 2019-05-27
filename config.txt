@@ -1,4 +1,4 @@
-merger_threshold: 1000
+merger_threshold: 3000
 in_file: /media/iso
-out_file_a: LX_res_alpha.txt
-out_file_n: LX_res_num.txt
+out_file_a: res_alpha_final.txt
+out_file_n: res_num_final.txt
